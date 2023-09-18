@@ -1,10 +1,10 @@
 <p align="center">
 
-<img width="1500" height="250" src="https://img.freepik.com/premium-vector/wave-motion-information-particles_262424-1241.jpg" alt="my banner">
+<img width="1500" height="250" src="https://img.freepik.com/premium-vector/wave-motion-information-particles_262424-1241.jpg" alt="https://github.com/Rushabhbhagat08/Rushabhbhagat08/">
 
 </p>
 <h1 align="center">Hi 👋, I'm Rushabh Bhagat</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Data Scientist/Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif"/>
 
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rushabh bhagat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushabh bhagat" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rushabh-bhagat-661241165/" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushabh bhagat" height="30" width="40" /></a>
 <a href="https://instagram.com/rushabhb08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rushabhb08" height="30" width="40" /></a>
 </p>
 
