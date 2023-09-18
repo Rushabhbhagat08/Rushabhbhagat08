@@ -1,7 +1,11 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<p align="center">
+
+<img width="1500" height="250" src="https://img.freepik.com/premium-vector/wave-motion-information-particles_262424-1241.jpg" alt="my banner">
+
+</p>
 <h1 align="center">Hi 👋, I'm Rushabh Bhagat</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-img align="right" alt="Coding" width="400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif"
+<img align="right" alt="Coding" width="400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushabhbhagat08&label=Profile%20views&color=0e75b6&style=flat" alt="rushabhbhagat08" /> </p>
